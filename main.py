@@ -10,6 +10,9 @@ colour_dict = {
     "purple": [255,0,157],
     "green": [0,204,0],
     "blue": [255,0,0],
+    "pink": [203,192,255],
+    "lime": [50,205,50],
+    "turquoise": [189,195,83]
 }
 font = cv2.FONT_HERSHEY_TRIPLEX
 random_colour = key, val = random.choice(list(colour_dict.items()))
